@@ -3,9 +3,9 @@
   "data": {
         "bannerCount": 3,
         "banners": [
-           {"image": 'https://unsplash.it/1080?image=101'},
-           {"image": 'https://unsplash.it/1080?image=111'},
-           {"image": 'https://unsplash.it/1080?image=121'}
+           {"image": "https://unsplash.it/1080?image=101"},
+           {"image": "https://unsplash.it/1080?image=111"},
+           {"image": "https://unsplash.it/1080?image=121"}
          ]
     }
 }

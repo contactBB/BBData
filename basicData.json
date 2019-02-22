@@ -1,5 +1,5 @@
 {
-  "isDisabled" : true,
+  "isDisabled" : false,
   "isDisabledMessage" : ", we'll be back soon!",
   "data": {
         "bannerCount": 3,

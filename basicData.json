@@ -1,5 +1,5 @@
 {
-  "isDisabled" : false,
+  "isDisabled" : true,
   "data": {
         "bannerCount": 3,
         "banners": [
